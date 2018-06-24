@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themanuscript-jatsript/locale/pt_BR/locale.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings 
+  * Translated by Job Diogenes Ribeiro Borges
+  -->
+
+<locale name="pt_BR" full_name="Português Brasil">
+	<message key="plugins.themes.manuscript-jats.name">Tema Manuscript JATS</message>
+	<message key="plugins.themes.manuscript-jats.description">Amplia o tema Manuscript padrão para usar o JATS Parser Plugin</message>
+	<message key="plugins.themes.manuscript-jats.option.typography.montserrat_notoSerif">Montserrat/Noto Serif</message>
+	<message key="plugins.themes.manuscript-jats.option.accentColour.label">Accent Colour</message>
+</locale>
